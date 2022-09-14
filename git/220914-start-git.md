@@ -1,4 +1,4 @@
-# 2022-09-14 (수) TIL(Today I Learned)
+# 2022-09-14 (Wed) TIL(Today I Learned)
 
 ## md file basic
 
@@ -10,7 +10,8 @@
 - h6: #######
 
 ###list
-- -,*,+ or 1, 2, 3
+- -,*,+ : no lineup list
+- 1, 2, 3 : line up list
 
 ###hyperlink
 [link text] (link URL)
@@ -33,7 +34,7 @@ working directory -> blob -> git add -> stage -> git commit -> localrepo -> git 
 ### Conventional Commits
 - feat : develope funtions
 - fix : fix the errors or patch the bugs
-- docs : make documentary
+- docs : make document
 - conf : configuration things like .gitignore
 ... etc
 You must check your team's Conventions and remember
